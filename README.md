@@ -19,7 +19,7 @@
 ## 📌 Projetos em destaque
 
 ### 📋 To-Do List (C#)
-Aplicação para gerenciamento de tarefas com foco em lógica de programação, POO e organização de código.  
+Aplicação para gerenciamento de tarefas com foco em lógica de programação, POO, organização de código e validação de dados.
 🔗 https://github.com/Bielszzz/todo-list-csharp  
 
 ---

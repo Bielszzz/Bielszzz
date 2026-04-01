@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel!
 
-<!--
-**Bielszzz/Bielszzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em desenvolvimento backend com C# / .NET  
+📚 Em constante evolução através de estudos e projetos práticos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- C# / .NET  
+- Python  
+- SQL  
+- Git e GitHub  
+- HTML, CSS e JavaScript (básico)
+
+---
+
+## 📌 Projetos em destaque
+
+### 📋 To-Do List (C#)
+Aplicação para gerenciamento de tarefas com foco em lógica de programação, POO e organização de código.  
+🔗 https://github.com/Bielszzz/todo-list-csharp  
+
+---
+
+### 👤 CRUD de Usuários (C#)
+Sistema CRUD para gerenciamento de usuários, aplicando conceitos de POO, manipulação de dados e boas práticas.  
+🔗 https://github.com/Bielszzz/CRUD_Usuarios_CSharp  
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade na área de desenvolvimento, onde eu possa aplicar meus conhecimentos na prática, aprender com o time e evoluir tecnicamente.
+
+---
+
+## 📈 Atualmente estudando
+
+- Desenvolvimento backend com C# / .NET  
+- Estrutura de dados  
+- Boas práticas e organização de código  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabrieloliveira0099/

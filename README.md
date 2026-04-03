@@ -18,6 +18,12 @@
 
 ## 📌 Projetos em destaque
 
+### Sistema de Agendamento para Clínica (API REST em C#)
+API REST em C# (.NET) para sistema de clínica, com agendamento de consultas, validação de regras de negócio e persistência com Entity Framework Core e SQLite.  
+🔗 https://github.com/Bielszzz/clinic-management-api
+
+---
+
 ### 📋 To-Do List (C#)
 Aplicação para gerenciamento de tarefas com foco em lógica de programação, POO, organização de código e validação de dados.  
 🔗 https://github.com/Bielszzz/todo-list-csharp  
